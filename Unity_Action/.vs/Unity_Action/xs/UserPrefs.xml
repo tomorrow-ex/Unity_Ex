@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{5771318F-7A15-AA49-9F7B-F8257DDE5B0A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/EnemyRotation.cs">
+    <Files>
+      <File FileName="Assets/PlayerMove.cs" Line="47" Column="2" />
+      <File FileName="Assets/CameraMove.cs" Line="22" Column="1" />
+      <File FileName="Assets/TrapMove.cs" Line="14" Column="35" />
+      <File FileName="Assets/EnemyRotation.cs" Line="14" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
